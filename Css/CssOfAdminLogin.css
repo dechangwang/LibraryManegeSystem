@@ -1,0 +1,90 @@
+﻿#Password1 
+{
+    height: 27px;
+    width: 426px;
+    margin-left: 264px;
+    margin-top: 31px;
+    margin-bottom: 0px;
+}
+
+#title
+{
+    position:absolute;
+    height:10%;
+    width:50%;
+    left:15%;
+    top:1%;
+    background-image:url(../PictureOfLogin/12.png);
+}
+
+#labelforaccount
+{
+    position:absolute;
+    left:25%;
+    top:24%;
+    height:5%;
+    width:10%;
+
+}
+
+#labelforpassword
+{
+    position:absolute;
+    left:25%;
+    top:42%;
+    height:5%;
+    width:10%;
+    
+}
+
+#foraccount
+{
+    position:absolute;
+    width:18%;
+    
+    height:5%;
+    left:70%;
+    top:23%;
+}
+
+#forpassword
+{
+    position:absolute;
+    width:18%;
+    border:1px solid #bbb;
+    height:5%;
+    left:70%;
+    top:41%;
+}
+
+
+#forhr
+{
+    position:absolute;
+    height:8%;
+    width:70%;
+    color:#0130cb;
+    left:15%;
+    top:12%;
+    background-color:#0130cb;
+}
+
+
+#Button1
+{
+    background-color:#00e8ff;
+    opacity:0.8;
+    
+}
+
+#bg
+{
+    position:absolute;
+    border:1px solid #bbb;
+    height:77%;
+    width:70%;
+    left:15%;
+    top:22%;
+    z-index:-10000;
+    background-image:url(../PictureOfLogin/night.jpg);
+}

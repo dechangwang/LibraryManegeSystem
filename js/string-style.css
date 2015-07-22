@@ -1,0 +1,65 @@
+/* hardware accelatator class */	
+	.trans3d
+	{
+		-webkit-transform-style: preserve-3d;
+		-webkit-transform: translate3d(0, 0, 0);
+		-moz-transform-style: preserve-3d;
+		-moz-transform: translate3d(0, 0, 0);
+		-ms-transform-style:preserve-3d;
+		-ms-transform: translate3d(0, 0, 0);
+		transform-style:preserve-3d;
+		transform: translate3d(0, 0, 0);
+	}
+	
+	#contentContainer
+	{
+       
+        margin-left:10%;
+		position:absolute;
+		float:left;
+        margin-top:0px;
+		width:40%;
+		height:400px;
+	}
+	
+	#carouselContainer
+	{
+
+		position:absolute;
+		width:500px;
+		height:400px;
+	}
+	
+	.carouselItem
+	{
+		width:200px;
+		height:100px;
+		position:absolute;
+		left:50%;
+		top:50%;
+		margin-left:-160px;
+		margin-top:-90px;
+		visibility:hidden;
+	}
+	
+	.carouselItemInner
+	{
+       
+		width:320px;
+		height:130px;
+		position:absolute;
+		background-color:a(255, 255, 255, .5);
+		color:aqua;
+		font-size:60px;
+		left:50%;
+		top:50%;
+		margin-left:-160	x;
+		mpx;
+		left:50%;
+		top:50%;
+		margin-left:-160px;
+		margin-top:-90px;
+		text-align:center;
+		padding-top:50px;
+		
+	}

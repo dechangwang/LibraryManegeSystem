@@ -1,0 +1,281 @@
+﻿#title
+{
+    position:absolute;
+    height:18%;
+    width:100%;
+    
+    left:0%;
+    top:0px;
+}
+
+#titleright
+{
+    background-repeat:no-repeat;
+    position:absolute;
+    height:9%;
+    width:40%;
+    left:7%;
+    margin-top:10px;
+    background-image:url(../PictureOfChange/Add.png);
+    top:40%;
+}
+
+#labelforauthor
+{
+    position:absolute;
+    left:30%;
+    top:35%;
+    font-family:'Segoe Marker';
+}
+
+#forauthor
+{
+    position:absolute;
+    height:5%;
+    width:18%;
+    left:72%;
+  
+    top:34%;
+
+}
+
+#author
+{
+    position:absolute;
+    height:5%;
+    width:30%;
+    left:40%;
+    top:34%;
+    background-color:#808080;
+    opacity:0.9;
+    filter:alpha(opacity = 50);
+    font-size:inherit;
+}
+
+
+#labelforname
+{
+    position:absolute;
+    left:30%;
+    top:40%;
+    font-family:'Segoe Marker';
+}
+
+#forname
+{
+    position:absolute;
+    height:5%;
+    width:18%;
+    left:72%;
+
+    top:39%;
+
+}
+
+#name
+{
+    position:absolute;
+    height:5%;
+    width:30%;
+    left:40%;
+    top:39%;
+    background-color:#808080;
+    opacity:0.9;
+    font-size:inherit;
+}
+
+#labelforpublishment
+{
+    position:absolute;
+    left:30%;
+    top:45%;
+    font-family:'Segoe Marker';
+}
+
+#forpublishment
+{
+    position:absolute;
+    height:5%;
+    width:18%;
+    left:72%;
+
+    top:44%;
+
+}
+
+#publishment
+{
+    position:absolute;
+    height:5%;
+    width:30%;
+    left:40%;
+    top:44%;
+    background-color:#808080;
+    opacity:0.9;
+    font-size:inherit;
+}
+
+#labelfordate
+{
+    position:absolute;
+    left:30%;
+    top:50%;
+    font-family:'Segoe Marker';
+}
+
+
+#fordate
+{
+    position:absolute;
+    height:5%;
+    width:18%;
+    left:72%;
+
+    top:49%;
+
+}
+
+
+#date
+{
+    position:absolute;
+    height:5%;
+    width:30%;
+    left:40%;
+    top:49%;
+    background-color:#808080;
+    opacity:0.9;
+    font-size:inherit;
+}
+
+#labelforprice
+{
+    position:absolute;
+    left:30%;
+    top:55%;
+    font-family:'Segoe Marker';
+}
+
+
+#forprice
+{
+    position:absolute;
+    height:5%;
+    width:18%;
+    left:72%;
+
+    top:54%;
+
+}
+
+
+#price
+{
+    position:absolute;
+    height:5%;
+    width:30%;
+    left:40%;
+    top:54%;
+    background-color:#808080;
+    opacity:0.9;
+    font-size:inherit;
+}
+
+#labelfornumber
+{
+    position:absolute;
+    left:30%;
+    top:60%;
+    font-family:'Segoe Marker';
+}
+
+
+#fornumber
+{
+    position:absolute;
+    height:5%;
+    width:18%;
+    left:72%;
+
+    top:59%;
+
+}
+
+
+#number
+{
+    position:absolute;
+    height:5%;
+    width:30%;
+    left:40%;
+    top:59%;
+    background-color:#808080;
+    opacity:0.9;
+    font-size:inherit;
+}
+
+#labelfornumberofborrow
+{
+    position:absolute;
+    left:30%;
+    top:65%;
+    font-family:'Segoe Marker';
+}
+
+
+#fornumberofborrow
+{
+    position:absolute;
+    height:5%;
+    width:18%;
+    left:72%;
+   /*border:1px solid #bbb;*/
+    top:64%;
+
+}
+
+
+#numberofborrow
+{
+    position:absolute;
+    height:5%;
+    width:30%;
+    left:40%;
+    top:64%;
+    background-color:#808080;
+    opacity:0.9;
+    font-size:inherit;
+}
+
+#submit
+{
+    position:absolute;
+    left:40%;
+    top:70%;
+    border:1px solid #bbb;
+    background-color:#0549b5;
+    opacity:0.6;
+    height:5%;
+    width:10%;
+    cursor:pointer;
+    font-family:'Segoe Print';
+}
+
+#reset
+{
+    position:absolute;
+    left:60%;
+    top:70%;
+    border:1px solid #bbb;
+    background-color:#de0404;
+    opacity:0.6;
+    height:5%;
+    width:10%;
+    cursor:pointer;
+    font-family:'Segoe Print';
+}
+
+#back
+{
+    background-image:url(/PictureOfChange/book.jpg);
+}

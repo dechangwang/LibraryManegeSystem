@@ -1,0 +1,134 @@
+﻿.info
+{
+    border:2px dashed #bbb;
+}
+
+table.main
+{
+	position:absolute;
+	left:0%;
+	top:70%;
+	width:100%;
+	border:0px solid #bbb;
+}
+
+
+div.title
+{
+	position:relative;
+	width:80%;
+	height:100px;
+	margin-left:10%;
+	margin-top:0%;
+	border: 3px solid #bbb;
+}
+
+
+
+input.sea
+{
+	position:absolute;
+	width:200px;
+	height:50px;
+	left:63%;
+	top:30%;
+	border:2px solid #bbb;
+	border-radius:15px;
+}
+
+input.but
+{
+	position:absolute;
+	width:100px;
+	height:50px;
+	left:85.5%;
+	top:30%;
+	border:3px solid #bbb;
+	border-radius:15px;
+}
+tr.main
+{
+	width:15%;
+	border:2px solid #bbb;
+	border-radius:10px;
+}
+
+
+td.pic
+{
+	width:5%;
+	text-align:center;
+	border:0px solid #bbb;
+	border-radius:10px;
+}
+td.main
+{
+	font-family:Segoe Print;
+	color:#7FFF00;
+	width:5%;
+	text-align:center;
+	border:2px solid #bbb;
+	border-radius:10px;
+}
+
+td.user
+{
+	font-family:Buxton Sketch;
+	color:#5CACEE;
+	width:17%;
+	text-align:center;
+	border:2px solid #bbb;
+	border-radius:10px;
+	font-size:18px;
+}
+#number,#account,#sex,#name,#phone,#email,#numberofborrow{
+    font-family:Buxton Sketch;
+	color:#5CACEE;
+	width:17%;
+	text-align:center;
+	border:2px solid #bbb;
+	border-radius:10px;
+	font-size:18px;
+}
+.th
+{
+    font-family:Segoe Print;
+	color:#7FFF00;
+	width:5%;
+	text-align:center;
+	border:2px solid #bbb;
+	border-radius:10px;
+}
+
+#index
+{
+    position:absolute;
+    height:9%;
+    width:20%;
+     background-repeat:no-repeat;
+    left:5%;
+    top:37%;
+    background-image:url(../PictureOfReadersInfo/13.png);
+}
+
+#forhr
+{
+    position:absolute;
+    height:8%;
+    width:90%;
+    color:#0130cb;
+    left:5%;
+    top:48%;
+    background-color:#0130cb;
+}
+
+#forend
+{
+    position:relative;
+    height:8%;
+    width:80%;
+    color:#0130cb;
+    left:10%;
+    top:100%;
+    background-color:#0130cb;
+}

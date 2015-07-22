@@ -1,0 +1,282 @@
+﻿#title
+{
+    position:absolute;
+    height:18%;
+    width:100%;
+  
+    background-image:url(../PictureOfChange/head-top1.png);
+    left:0%;
+    top:0px;
+}
+
+#titleright
+{
+    position:absolute;
+    height:7%;
+    width:40%;
+
+    left:7%;
+    margin-top:10px;
+    background-image:url(../PictureOfChange/title.png);
+    top:20%;
+}
+
+#labelforauthor
+{
+    position:absolute;
+    left:30%;
+    top:21%;
+    font-family:'Segoe Marker';
+}
+
+#forauthor
+{
+    position:absolute;
+    height:5%;
+    width:18%;
+    left:72%;
+    //border:1px solid #bbb;
+    top:20%;
+
+}
+
+#author
+{
+    position:absolute;
+    height:5%;
+    width:30%;
+    left:40%;
+    top:20%;
+    background-color:#808080;
+    opacity:0.6;
+    filter:alpha(opacity = 50);
+    font-size:inherit;
+}
+
+
+#labelforname
+{
+    position:absolute;
+    left:30%;
+    top:27%;
+    font-family:'Segoe Marker';
+}
+
+#forname
+{
+    position:absolute;
+    height:5%;
+    width:18%;
+    left:72%;
+    //border:1px solid #bbb;
+    top:26%;
+
+}
+
+#name
+{
+    position:absolute;
+    height:5%;
+    width:30%;
+    left:40%;
+    top:26%;
+    background-color:#808080;
+    opacity:0.6;
+    font-size:inherit;
+}
+
+#labelforpublishment
+{
+    position:absolute;
+    left:30%;
+    top:33%;
+    font-family:'Segoe Marker';
+}
+
+#forpublishment
+{
+    position:absolute;
+    height:5%;
+    width:18%;
+    left:72%;
+    //border:1px solid #bbb;
+    top:32%;
+
+}
+
+#publishment
+{
+    position:absolute;
+    height:5%;
+    width:30%;
+    left:40%;
+    top:32%;
+    background-color:#808080;
+    opacity:0.6;
+    font-size:inherit;
+}
+
+#labelfordate
+{
+    position:absolute;
+    left:30%;
+    top:39%;
+    font-family:'Segoe Marker';
+}
+
+
+#fordate
+{
+    position:absolute;
+    height:5%;
+    width:18%;
+    left:72%;
+    //border:1px solid #bbb;
+    top:38%;
+
+}
+
+
+#date
+{
+    position:absolute;
+    height:5%;
+    width:30%;
+    left:40%;
+    top:38%;
+    background-color:#808080;
+    opacity:0.6;
+    font-size:inherit;
+}
+
+#labelforprice
+{
+    position:absolute;
+    left:30%;
+    top:45%;
+    font-family:'Segoe Marker';
+}
+
+
+#forprice
+{
+    position:absolute;
+    height:5%;
+    width:18%;
+    left:72%;
+    //border:1px solid #bbb;
+    top:44%;
+
+}
+
+
+#price
+{
+    position:absolute;
+    height:5%;
+    width:30%;
+    left:40%;
+    top:44%;
+    background-color:#808080;
+    opacity:0.6;
+    font-size:inherit;
+}
+
+#labelfornumber
+{
+    position:absolute;
+    left:30%;
+    top:51%;
+    font-family:'Segoe Marker';
+}
+
+
+#fornumber
+{
+    position:absolute;
+    height:5%;
+    width:18%;
+    left:72%;
+
+    top:50%;
+
+}
+
+
+#number
+{
+    position:absolute;
+    height:5%;
+    width:30%;
+    left:40%;
+    top:50%;
+    background-color:#808080;
+    opacity:0.6;
+    font-size:inherit;
+}
+
+#labelfornumberofborrow
+{
+    position:absolute;
+    left:30%;
+    top:57%;
+    font-family:'Segoe Marker';
+}
+
+
+#fornumberofborrow
+{
+    position:absolute;
+    height:5%;
+    width:18%;
+    left:72%;
+   /*border:1px solid #bbb;*/
+    top:56%;
+
+}
+
+
+#numberofborrow
+{
+    position:absolute;
+    height:5%;
+    width:30%;
+    left:40%;
+    top:56%;
+    background-color:#808080;
+    opacity:0.6;
+    font-size:inherit;
+}
+
+#submit
+{
+    position:absolute;
+    left:40%;
+    top:70%;
+    border:1px solid #bbb;
+    background-color:#0549b5;
+    opacity:0.6;
+    height:5%;
+    width:10%;
+    cursor:pointer;
+    font-family:'Segoe Print';
+}
+
+#reset
+{
+    position:absolute;
+    left:60%;
+    top:70%;
+    border:1px solid #bbb;
+    background-color:#de0404;
+    opacity:0.6;
+    height:5%;
+    width:10%;
+    cursor:pointer;
+    font-family:'Segoe Print';
+}
+
+#back
+{
+    background-image:url(../PictureOfChange/bg.jpg)
+}

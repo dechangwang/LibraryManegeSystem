@@ -1,0 +1,187 @@
+﻿#DropDownList1
+{
+    position:absolute;
+    height:5%;
+    width:25%;
+    left:38%;
+    top:78%;
+    opacity:0.7;
+}
+
+
+#labelforlist
+{
+    position:absolute;
+    height:5%;
+    width:6%;
+    left:30%;
+    top:78%;
+    font-size:16px;
+    text-align:center;
+    color:#de0101;
+}
+
+#forhr
+{
+    position:absolute;
+    height:8%;
+    width:90%;
+    color:#0130cb;
+    left:5%;
+    top:40%;
+    background-color:#0130cb;
+    z-index:-1000;
+}
+
+#titleleft
+{
+    position:absolute;
+    height:9%;
+    width:40%;
+    left:6%;
+    margin-top:10px;
+    background-image:url(../PictureOfPulishment/pulishment.png);
+    top:30%;
+}
+
+#labelforreader
+{
+    position:absolute;
+    height:5%;
+    width:6%;
+    left:30%;
+    top:50%;
+    font-size:16px;
+    text-align:center;
+}
+
+#reader
+{
+    position:absolute;
+    height:5%;
+    width:25%;
+    border:1px solid #bbb;
+    left:38%;
+    top:50%;
+}
+
+#forreader
+{
+    position:absolute;
+    height:5%;
+    width:17%;
+    left:65%;
+    top:50%;
+}
+
+#labelforcash
+{
+    position:absolute;
+    height:5%;
+    width:6%;
+    left:30%;
+    top:57%;
+    font-size:16px;
+    text-align:center;
+}
+
+#cash
+{
+    position:absolute;
+    height:5%;
+    width:25%;
+    border:1px solid #bbb;
+    left:38%;
+    top:57%;
+}
+
+#forcash
+{
+    position:absolute;
+    height:5%;
+    width:17%;
+    left:65%;
+    top:57%;
+}
+
+#labelfortime
+{
+    position:absolute;
+    height:5%;
+    width:6%;
+    left:30%;
+    top:64%;
+    font-size:16px;
+    text-align:center;
+}
+
+#time
+{
+    position:absolute;
+    height:5%;
+    width:25%;
+    border:1px solid #bbb;
+    left:38%;
+    top:64%;
+}
+
+#fortime
+{
+    position:absolute;
+    height:5%;
+    width:17%;
+    left:65%;
+    top:64%;
+}
+
+#labelforbook
+{
+    position:absolute;
+    height:5%;
+    width:6%;
+    left:30%;
+    top:71%;
+    font-size:16px;
+    text-align:center;
+}
+
+#book
+{
+    position:absolute;
+    height:5%;
+    width:25%;
+    border:1px solid #bbb;
+    left:38%;
+    top:71%;
+}
+
+#forbook
+{
+    position:absolute;
+    height:5%;
+    width:17%;
+    left:65%;
+    top:71%;
+}
+
+#button
+{
+    position:absolute;
+    height:5%;
+    width:6%;
+    left:38%;
+    top:90%;
+    background-color:cadetblue;
+    opacity:0.6;
+}
+
+#reset
+{
+    position:absolute;
+    height:5%;
+    width:6%;
+    left:57%;
+    top:90%;
+    background-color:red;
+    opacity:0.6;
+}

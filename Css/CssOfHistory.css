@@ -1,0 +1,34 @@
+﻿#forhr
+{
+    position:absolute;
+    height:8%;
+    width:90%;
+    color:#0130cb;
+    left:5%;
+    top:40%;
+    background-color:#0130cb;
+}
+
+#titleleft
+{
+    position:absolute;
+    height:9%;
+    width:40%;
+    left:6%;
+    margin-top:10px;
+    background-image:url(../PictureOfHistory/15.png);
+    top:30%;
+}
+
+#fortable
+{
+    position:absolute;
+    left:22%;
+    top:50%;
+    width:60%;
+}
+
+.fortd
+{
+    width:7.5%;
+}

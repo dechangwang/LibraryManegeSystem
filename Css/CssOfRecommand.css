@@ -1,0 +1,202 @@
+﻿#forhr
+{
+    position:absolute;
+    height:8%;
+    width:90%;
+    color:#0130cb;
+    left:5%;
+    top:40%;
+    background-color:#0130cb;
+}
+
+#titleleft
+{
+    background-repeat:no-repeat;
+    position:absolute;
+    height:9%;
+    width:40%;
+    left:6%;
+    margin-top:10px;
+    background-image:url(../Image/14.png);
+    top:30%;
+}
+
+
+#labelforauthor
+{
+    position:absolute;
+    left:30%;
+    top:54%;
+    font-family:'Segoe Marker';
+}
+
+#forauthor
+{
+    position:absolute;
+    height:5%;
+    width:18%;
+    left:72%;
+    top:53%;
+}
+
+#author
+{
+    position:absolute;
+    height:5%;
+    width:30%;
+    left:40%;
+    top:53%;
+    opacity:0.9;
+    filter:alpha(opacity = 50);
+    font-size:inherit;
+}
+
+
+#labelforname
+{
+    position:absolute;
+    left:30%;
+    top:61%;
+    font-family:'Segoe Marker';
+}
+
+#forname
+{
+    position:absolute;
+    height:5%;
+    width:18%;
+    left:72%;
+    top:60%;
+
+}
+
+#name
+{
+    position:absolute;
+    height:5%;
+    width:30%;
+    left:40%;
+    top:60%;
+    opacity:0.9;
+    font-size:inherit;
+}
+
+#labelforpublishment
+{
+    position:absolute;
+    left:30%;
+    top:68%;
+    font-family:'Segoe Marker';
+}
+
+#forpublishment
+{
+    position:absolute;
+    height:5%;
+    width:18%;
+    left:72%;
+    top:67%;
+
+}
+
+#publishment
+{
+    position:absolute;
+    height:5%;
+    width:30%;
+    left:40%;
+    top:67%;
+    opacity:0.9;
+    font-size:inherit;
+}
+
+#labelfordate
+{
+    position:absolute;
+    left:30%;
+    top:75%;
+    font-family:'Segoe Marker';
+}
+
+
+#fordate
+{
+    position:absolute;
+    height:5%;
+    width:18%;
+    left:72%;
+    top:74%;
+
+}
+
+
+#date
+{
+    position:absolute;
+    height:5%;
+    width:30%;
+    left:40%;
+    top:74%;
+    opacity:0.9;
+    font-size:inherit;
+}
+
+#labelforprice
+{
+    position:absolute;
+    left:30%;
+    top:82%;
+    font-family:'Segoe Marker';
+}
+
+
+#forprice
+{
+    position:absolute;
+    height:5%;
+    width:18%;
+    left:72%;
+    top:81%;
+
+}
+
+
+#price
+{
+    position:absolute;
+    height:5%;
+    width:30%;
+    left:40%;
+    top:81%;
+    opacity:0.9;
+    font-size:inherit;
+}
+
+
+#submit
+{
+    position:absolute;
+    left:40%;
+    top:90%;
+    border:1px solid #bbb;
+    background-color:#0549b5;
+    opacity:0.6;
+    height:5%;
+    width:10%;
+    cursor:pointer;
+    font-family:'Segoe Print';
+}
+
+#reset
+{
+    position:absolute;
+    left:60%;
+    top:90%;
+    border:1px solid #bbb;
+    background-color:#de0404;
+    opacity:0.6;
+    height:5%;
+    width:10%;
+    cursor:pointer;
+    font-family:'Segoe Print';
+}

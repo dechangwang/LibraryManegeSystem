@@ -1,0 +1,69 @@
+﻿#forhr
+{
+    position:absolute;
+    height:8%;
+    width:90%;
+    color:#0130cb;
+    left:5%;
+    top:40%;
+    background-color:#0130cb;
+    z-index:-10000;
+}
+
+#titleleft
+{
+    position:absolute;
+    height:9%;
+    width:40%;
+    left:6%;
+    margin-top:10px;
+    background-image:url(../PictureOfDeleteBook/19.png);
+    top:30%;
+}
+
+#fortable
+{
+    position:absolute;
+    top:55%;
+    left:10%;
+    width:80%;
+}
+
+.fortitletr
+{
+    text-align:center;
+    font-family:'Segoe Print';
+    color:#0018d5;
+    background-color:darkgrey;
+}
+
+.fortd
+{
+    text-align:center;
+    width:16%;
+}
+.foronetr
+{
+    text-align:center;
+    font-family:'Segoe Print';
+    background-color:darkgreen;
+}
+
+.fortwotr
+{
+    text-align:center;
+    font-family:'Segoe Print';
+    background-color:ivory;
+}
+
+#forend
+{
+    background-color:#0130cb;
+    color:#0130cb;
+}
+
+.forendl
+{
+    color:white;
+
+}
